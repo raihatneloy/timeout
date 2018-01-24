@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-	name = 'timeout',
-	packages = ['timeout'],
+	name = 'timeout_checker',
+	packages = ['timeout_checker'],
 	version = '1.0.0',
 	description = 'Package for codes timeout',
 	author = 'Raihat Zaman Neloy',
